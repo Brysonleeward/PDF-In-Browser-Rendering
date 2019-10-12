@@ -6,19 +6,17 @@ PDF-In-Browser-Rendering capable of a lot of stuff.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Bryson Ward
+- Austin Biggs
+- Evan Witous
 
 ## **Client Partner Information**
 
 ### *Company:*
-Ross Johnson
+Gold Fynch
 
 ### *People:*
-- Bryson Ward
-- Austin Biggs
-- Evan Witous
+- Ross Johnson
 
 ## **Links**
 
