@@ -21,7 +21,7 @@ Gold Fynch
 ## **Links**
 
 - [Project description](ProjectDescription.md)
-- [Clubhouse of the project](https://app.clubhouse.io)
+- [Clubhouse of the project](https://app.clubhouse.io/pdfinbrowserrendering/epics)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 - ... any other documents/links you see need
