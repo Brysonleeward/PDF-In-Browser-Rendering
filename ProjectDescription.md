@@ -2,12 +2,17 @@
 
 ## Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project has the goal of rendering a PDF document on a webpage while allowing for the use of tools (such as Zooming, Highlighting, Commenting, etc...). We will implement the use of PDFium for backend rendering of PDF documents, and we will use JavaScript for the front end manipulation / rendering.
 
 ## High-level Features
 
-- A bullet pointed list of high-level features (Use cases if you may).
-- Another one.
+- Rendering select pages at a time (and then render pages around)
+- Hidden text layer
+- Zooming in / out
+- High quality page renders that scale with zooming
+- Annotation abilities (highlighting, commenting)
+- Display usable outline of PDF documents
+- Pull PDFs from cloud storage or local drive
 
 ## Non-Functional Requirements
 
