@@ -28,7 +28,5 @@ Gold Fynch
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.android.com/)
-- [Php Backend](https://www.php.net/)
-- Others if more.
+- [Front-End Repo](https://github.com/EvanWitous/PDF_In_Broswer_Front_End)
 
