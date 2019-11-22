@@ -29,4 +29,5 @@ Gold Fynch
 ## **Code Repositories**
 
 - [Front-End Repo](https://github.com/EvanWitous/PDF_In_Broswer_Front_End)
+    - [Front-End Iteration 1](https://github.com/EvanWitous/PDF_In_Broswer_Front_End/releases/tag/v-0.1)
 - [Back-End Repo](https://github.com/abbiggs/Pdf_In_Browser_Backend)
