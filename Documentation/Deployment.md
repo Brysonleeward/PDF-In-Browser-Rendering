@@ -6,4 +6,4 @@
 - For troubleshooting the user must inspect the web page and read the console
     - The most vulnerable parts are currently loading the pages
     - We have been experienceing an error, on new downloads, with the pdfium.dll. The easiest fix is to replace the file into the file path listed if the error occurs.
-- If an error occurs with a large PDF then try opening a smaller PDF to ensure everything is functioning properly.
+- If an error occurs with a large PDF file then try opening a smaller PDF file to ensure everything is functioning properly.
