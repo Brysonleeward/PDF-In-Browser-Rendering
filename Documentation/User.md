@@ -2,7 +2,9 @@
 
 ## Setting Up Project
 
-For setting up the project you have download the repository https://github.com/abbiggs/PDF_ASP.Net .ZIP folder, and extract it. Make sure all the files stay in the same folder. We recommend opening the project in Visual Studio.
+For setting up the project you have download the repository https://github.com/abbiggs/PDF_ASP.Net .ZIP folder, and extract it (or clone the project). Make sure all the files stay in the same folder. We recommend opening the project in Visual Studio.
+
+
 
 ## Running Project
 
