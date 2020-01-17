@@ -1,11 +1,10 @@
 # Development Manual 
 
-Currently this project has a front end a back end that cannot talk to eachother. 
+Currently this project is functional and it is converting PDF's into bitmap images. It then saves and displays these images in the browser as jpegs.
 - The back end is currently converting pdf's into bitmaps,
-  which will eventually be pushed to the front end for displaying. 
+  which will is then pushed to the front end for displaying. 
 - The front end is contained inside a single button. When the button is clicked
-  it opens the pdf viewer. The viewer allows for page by page view, and zoom in/
-  zoom out functionality.
+  it opens the pdf viewer.
   
 Development Environment
 - Back End
