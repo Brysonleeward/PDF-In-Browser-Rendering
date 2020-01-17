@@ -28,7 +28,7 @@ Gold Fynch
 
 ## **Code Repositories**
 
-- [Front-End Repo](https://github.com/EvanWitous/PDF_In_Broswer_Front_End)
+- [Old Front-End Repo](https://github.com/EvanWitous/PDF_In_Broswer_Front_End)
     - [Front-End Iteration 1](https://github.com/EvanWitous/PDF_In_Broswer_Front_End/releases/tag/v-0.1)
-- [Back-End Repo](https://github.com/abbiggs/Pdf_In_Browser_Backend)
-- [Back-End Repo 2](https://github.com/abbiggs/PDF_ASP.Net)
+- [Old Back-End Repo](https://github.com/abbiggs/Pdf_In_Browser_Backend)
+- [Main Repo](https://github.com/abbiggs/PDF_ASP.Net)
