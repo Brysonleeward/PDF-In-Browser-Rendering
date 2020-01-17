@@ -8,8 +8,10 @@ Your solution explorer should look like this if everything imported correctly:
 ![Solution Explorer](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/SolutionExplorer.png)
 
 If your solution explorer looks different then make sure that you have these nuget packages installed:
+![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/NugetPackages.png)
 
+If you are still missing things, or getting errors. Then you need to contact the development team for assistance.
 
 ## Running Project
 
-You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This will run and should open a file in the default browser. From there you can select the Choose File button and select the PDF document you want to convert to an image. When you are ready to convert the file you click the LoadPDF button. This should display the image of the pdf file in the browser.
+You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This will run and should open a file in the default browser. From there you can select the "Choose File" button and select the PDF document you want to convert to an image. When you are ready to convert the file you click the "Load PDF" button. This should display the image of the pdf file in the browser.
