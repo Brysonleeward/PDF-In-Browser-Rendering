@@ -9,14 +9,14 @@ Currently this project is functional and it is converting PDF's into bitmap imag
 Development Environment
 - Back End
   - To duplicate the devlopment environment you will need:
-    - Visual Studio Code
+    - Microsoft Visual Studio
     - PdfiumSharp C#/.Net pdfium wrapper
     - PdfiumSharp.Gdiplus
     - PdfiumSharp.Windows
     - Basic knowledge of C#
 - Front End
   - To duplicate the development environment you will need:
-    - Visual Studio Code
+    - Microsoft Visual Studio
     - HTML/Javascript knowledge / skill
   
 There is currently no specific folder structure we are following. The project isn't 
