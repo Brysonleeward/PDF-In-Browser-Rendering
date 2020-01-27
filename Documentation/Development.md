@@ -14,7 +14,7 @@ If you are still missing things, or getting errors. Then you need to contact the
 
 ## Additional Information
 
-Currently this project is functional and it is converting PDF's into bitmap images. It then saves and displays these images in the browser as jpegs.
+Currently this project is functional and it is converting PDF's into bitmap images. It then saves and displays these images in the browser as PNG files. There is also a hidden text layer that will allow for future editing and annotations.
 - The back end is currently converting pdf's into bitmaps,
   which will is then pushed to the front end for displaying. 
 - The front end is contained inside a single button. When the button is clicked
