@@ -6,7 +6,7 @@ Any presentation you made will be put here right after the presentation. The fol
 - [First Iteration Presentation](https://docs.google.com/presentation/d/1e4a3CUznjSidPPcgyfsqN4w9Fx1fFuC5ONGN4bg59lY/edit?usp=sharing)
 - [Second Iteration Status & Planning Presentation](https://docs.google.com/presentation/d/1Yj7CZt7FO0DhoQDFplPHm_WtdevXW8RB5P1jd6wZumI/edit?usp=sharing)
 - [Second Iteration Presentation](https://docs.google.com/presentation/d/1fcbO5PVn6GvQ1LbAFeqB3Boszuvvo_9ssLEx2Y-otTo/edit?usp=sharing)
-- Third Iteration Presentation
+- [Third Iteration Presentation](https://docs.google.com/presentation/d/1-1voAaHXue0CTxTrElic13MNxKcRM8afjxXoMohVeKw/edit?usp=sharing)
 - Fourth Iteration Presentation
 - Fifth Iteration Presentation
 - Final Presentation
