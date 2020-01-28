@@ -10,6 +10,18 @@ Your solution explorer should look like this if everything imported correctly:
 If your solution explorer looks different then make sure that you have these nuget packages installed:
 ![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/NugetPackages.png)
 
+If your solution explorer looks different, or you have this message, you can try restoring the packages by following these steps:
+![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/RestorePackagesMessage.png)
+![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Restore%20Step2.png)
+![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/ClickRestore.png)
+
+
+For troubleshooting you can also try cleaning:
+![Solution Explorer](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/CleanSolution.png)
+
+and rebuilding your solution:
+![Solution Explorer](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/RebuildSolution.png)
+
 If you are still missing things, or getting errors. Then you need to contact the development team for assistance.
 
 ## Additional Information
