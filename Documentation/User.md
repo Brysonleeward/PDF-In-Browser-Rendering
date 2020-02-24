@@ -25,4 +25,4 @@ You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This wil
 #### There is also a hidden text that can be selected and copied.
 ![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Hiddentext.png)
 
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Screenshot(6).png)
+#### You should now have a fully loaded document.
