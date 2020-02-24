@@ -16,6 +16,7 @@ You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This wil
 #### Select the PDF and click open
 ![Step 4](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Screenshot(4).png)
 
+#### Select the Load PDF button
 ![Step 5](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Screenshot(5).png)
 
 #### Notice the ability to select the page you want to jump to. Simply type the page number and click enter. You can also scroll as fast as you would like to without any delay.
