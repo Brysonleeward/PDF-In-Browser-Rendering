@@ -4,7 +4,7 @@ What needs to be installed before starting:
 
 ## Prerequisites:
 - Install Visual Studio from https://visualstudio.microsoft.com/vs/
-- In the future we plan to include directions for deployment on a server. For now, we simply run the app locally. We are also planning to add crossplatform compatibilty, but sadly, at the moment deployment is for windows based systems.
+- In the future we plan to include directions for deployment on a server. For now, we simply run the app locally. At the moment deployment is for windows based systems.
 
 ## Building and Compiling
 - The following list will contain files and method names holding variables that are specific to the environment since there is no configuration file that the application reads on installation. This includes API endpoints, authentication settings, caching strategies, etc that will need to be changed.
