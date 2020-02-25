@@ -8,7 +8,7 @@ Your solution explorer should look like this if everything imported correctly:
 ![Solution Explorer](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/SolutionExplorer.png)
 
 If your solution explorer looks different then make sure that you have these nuget packages installed:
-![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/NugetPackages.png)
+![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/NugetPackages2.png)
 
 If your solution explorer looks different, or you have this message, you can try restoring the packages by following these steps:
 ![Nuget packages](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/RestorePackagesMessage.png)
