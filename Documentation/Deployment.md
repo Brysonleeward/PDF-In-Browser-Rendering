@@ -25,5 +25,5 @@ What needs to be installed before starting:
 
 ## Final Result
 - If everything has gone correctly, this is how the project should look. You can see that it is running on a local server.
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Screenshot(6).png)
+![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin.png)
   
