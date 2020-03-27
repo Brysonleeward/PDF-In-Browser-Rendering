@@ -25,4 +25,8 @@ You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This wil
 #### There is also a hidden text that can be selected and copied.
 ![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Hiddentext.png)
 
+#### There are controls for zooming in on a document. Select the button to zoom in.
+![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin.png)
+![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin2.png)
+
 #### You should now have a fully loaded document.
