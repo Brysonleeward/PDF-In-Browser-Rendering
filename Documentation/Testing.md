@@ -6,3 +6,5 @@ After that all you should need to do is right click the "PdfiumBackTest.sln" and
 
 ![Solution Explorer](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/TestingClick.png)
 
+All tests should both run, and pass, upon successful installation.
+
