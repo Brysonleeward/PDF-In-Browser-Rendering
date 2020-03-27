@@ -29,4 +29,9 @@ You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This wil
 ![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin.png)
 ![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin2.png)
 
+#### There are controls for zooming out on a document. Select the button to zoom out.
+![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingout2.png)
+![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingout.png)
+
+
 #### You should now have a fully loaded document.
