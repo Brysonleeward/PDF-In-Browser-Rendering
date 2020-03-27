@@ -43,7 +43,7 @@ Development Environment
 - Front End
   - To duplicate the development environment you will need:
     - Microsoft Visual Studio
-    - HTML/Javascript knowledge / skill
+    - HTML/Javascript knowledge / AJAX skill
 
 The files listed under Development Environment --> Back End are required to be able to work with pdfium.
 - PdfiumSharp is a C#/.Net wrapper that allows for C# development. It provides functionality to open, load,
