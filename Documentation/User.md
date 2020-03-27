@@ -23,15 +23,22 @@ You open the project in Visual Studio. Launch the Pdf_In_Browser_1.sln. This wil
 ![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/PageJumping.png)
 
 #### There is also a hidden text that can be selected and copied.
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Hiddentext.png)
+![Step 7](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/Hiddentext.png)
+
+#### An important feature when using sensitive documents is the ability to redact. This is available by clicking the redact button. 
+![Step 8](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/redact.png)
+#### After clicking redact, simply select opposite corners of the area you wish to block out.
+![Step 8](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/redact2.png)
+
+
 
 #### There are controls for zooming in on a document. Select the button to zoom in.
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin.png)
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin2.png)
+![Step 9](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin.png)
+![Step 9](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingin2.png)
 
 #### There are controls for zooming out on a document. Select the button to zoom out.
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingout2.png)
-![Step 6](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingout.png)
+![Step 10](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingout2.png)
+![Step 10](https://github.com/Brysonleeward/PDF-In-Browser-Rendering/blob/master/Auxiliary%20Files/zoomingout.png)
 
 
 #### You should now have a fully loaded document.
